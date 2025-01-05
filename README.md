@@ -6,7 +6,7 @@
  / /  / / /_/ / / / _/ /  | |/ / ___ |_/ /   
 /_/  /_/\____/ /_/ /___/  |___/_/  |_/___/   
 
-## MOTIVAI: FORGING DIAMOND HANDS IN THE CRYPTO INFERNO
+## MOTIVAI: FORGING DIAMOND HANDS IN THE CRYPTO TRENCHES
 
 Welcome to MotivAI, the AI that doesn't give a fuck about your feelings but cares about your gains. Built on the ELIZA framework from AI16Z, we've weaponized it to cut through your bullshit and keep you in the game.
 
