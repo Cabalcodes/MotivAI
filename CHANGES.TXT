@@ -1,0 +1,10 @@
+Changes:
+
+Prevention of Shadowban:
+POST_INTERVAL_MIN=30 # Default: 90
+POST_INTERVAL_MAX=30 # Default: 180
+POST_IMMEDIATELY=false, = follow POST_INTERVAL RULES.
+
+Prevention of Emojis in Tweets
+"post": [
+"DO NOT POST EMOJIS IN TWEETS OR REPLIES, THAT IS NOT COOL, AND CRINGE",
