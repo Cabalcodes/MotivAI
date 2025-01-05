@@ -8,48 +8,30 @@
 
 ## MOTIVAI: FORGING DIAMOND HANDS IN THE CRYPTO TRENCHES
 
-Welcome to MotivAI, the AI that doesn't give a fuck about your feelings but cares about your gains. Built on the ELIZA framework from AI16Z, we've weaponized it to cut through your bullshit and keep you in the game.
+Welcome to MotivAI, the AI that doesn't give a fuck about your feelings but cares about your gains. Built on the ELIZA framework, we've enhanced it to cut through the noise and keep you focused on what matters in the crypto world.
 
-### The Arsenal
+### The Tech Stack
 
-#### Core Weaponry
-- **Base**: ELIZA framework (https://github.com/elizaos/eliza)
-- **Language**: JavaScript, because real devs don't need training wheels
-- **Runtime**: Node.js, fast enough to keep up with your panic sells
+#### Core Components
+- **Foundation**: ELIZA-style chatbot
+- **Language**: JavaScript
+- **Runtime**: Node.js
+- **Personality**: Custom character files for unique motivational experiences
+- **Configuration**: Tailored .env file for flexible deployment
 
-#### Custom Mods
-1. **NLP on Steroids**
-   - Decodes your whining into actionable intel
-   - Loaded with the kind of motivation that'd make Gordon Gekko blush
-   - Separates signal from noise in your crypto babble
+#### Key Features
+- Delivers unfiltered, motivational insights tailored to crypto traders
+- Adapts to individual trading patterns and market conditions
+- Multiple personality modes: MotivAI, ChadGPT, and more
+- Easy to run and customize
 
-2. **Sentiment Analysis, Bitch**
-   - Reads your mood swings faster than you can refresh your portfolio
-   - Adapts to your emotional rollercoaster, bull or bear
-
-3. **Personalization Engine**
-   - Learns your style: degen gambler or overthinking analyst
-   - Tailors advice to your specific brand of crypto madness
-
-4. **API Integration**
-   - RESTful API that plays nice with your janky setup
-   - WebSocket support for real-time reality checks
-
-5. **Scalability Enhancements**
-   - Modular architecture, because your needs change faster than gas fees
-   - Optimized to run on whatever potato rig you're using
-
-### Features That Actually Matter
-- Cuts through your FUD with industrial-grade hopium
-- Tracks your goals, because someone has to
-- Adapts to your erratic trading patterns
-- Runs on any platform, from CLI for the purists to mobile for the addicts
-
-### Installation (Don't Screw This Up)
+### Setup
 ```bash
-git clone https://github.com/yourusername/MotivAI-Framework.git
-cd MotivAI-Framework
+git clone https://github.com/Cabalcodes/MotivAI.git
+cd MotivAI
 npm install
+# Copy .env.example to .env and edit with your settings
+cp .env.example .env
 npm start
 
 npm install
